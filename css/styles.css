@@ -10167,3 +10167,29 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+#icono-android{
+  width: 30%;
+  height:auto;
+  opacity:50%;
+}
+#icono-android:hover{
+  transform:scale(120%);
+  width: 30%;
+  height:auto;
+  opacity:100%;
+}
+#icono-svg{
+  position:absolute;
+  right:45%;
+  top:160%;
+  width: 10%;
+  height:auto;
+  opacity:50%;
+}
+#icono-svg:hover{
+  transform:scale(110%);
+  height:auto;
+  opacity:100%;
+
+}
