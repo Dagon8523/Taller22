@@ -10182,7 +10182,7 @@ header.masthead h1 {
 #icono-svg{
   position:absolute;
   right:45%;
-  top:160%;
+  top:110%;
   width: 10%;
   height:auto;
   opacity:50%;
@@ -10191,5 +10191,13 @@ header.masthead h1 {
   transform:scale(110%);
   height:auto;
   opacity:100%;
-
+}
+#icono-descarga{
+  width: 10%;
+  height:auto;
+}
+#icono-descarga:hover{
+  transform:scale(110%);
+  width: 10%;
+  height:auto;
 }
